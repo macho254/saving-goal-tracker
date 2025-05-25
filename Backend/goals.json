@@ -1,0 +1,16 @@
+[
+  {
+    "id": "117fd157-711d-49cb-b9b7-c293876ef26e",
+    "title": "Buy a laptop",
+    "description": "For work",
+    "amount": 1000.0,
+    "months": 5
+  },
+  {
+    "id": "17aa615e-3d57-4af5-bdd6-30b85d77d0f6",
+    "title": "Buy a laptop",
+    "description": "For work",
+    "amount": 1000.0,
+    "months": 5
+  }
+]
